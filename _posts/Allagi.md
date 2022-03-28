@@ -1,14 +1,12 @@
 ---
-title:  "Advanced examples"
-mathjax: true
+title:  "Allagi"
 layout: post
-categories: media
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+<iframe width="560" height="315" src="https://youtu.be/pwk1ajP8FxY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## MathJax
+## Allagi
 
 You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
 
