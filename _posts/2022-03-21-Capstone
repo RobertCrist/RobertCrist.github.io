@@ -1,0 +1,14 @@
+---
+title:  "Allagi"
+layout: post
+---
+
+My capstone is through the ENGINE program at the UW ECE which pairs students with projects from companies, labs and research groups. I was paired with UW CSE's [Octopus Research Group](http://arl.cs.washington.edu/ORG/) with the goal of creating a VR experience to create empathy towards octopi. To do this, our team worked with the Unity game engine and created C# scripts, shaders, and animations. A link to the repository can be found [here](https://github.com/TStrong85/OctopusVR). 
+
+
+Due to the diverse requirements, our team split the project into a plethora of distict portions that were complete on their own. This project is still ongoing and the following sections go over the work I have completed:
+
+## Reaching and Exploring the Contents of a Jar
+ ---
+ 
+ The first major task I was assigned was to get the octopus arms to be able to reach inside a jar and explore the inner space. Due to my initial lack of experience in both AI and Unity, I started out by creating a simple AI
