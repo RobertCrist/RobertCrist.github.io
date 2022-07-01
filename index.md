@@ -2,7 +2,9 @@
 layout: page
 title: ""
 ---
-<img src="https://user-images.githubusercontent.com/92423156/176803230-3203a0e4-d7b2-4ced-84e9-41de2e4bc0fe.jpg" width="150" height="280">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/92423156/176803230-3203a0e4-d7b2-4ced-84e9-41de2e4bc0fe.jpg" width=50% height=50%>
+</p>
 
 I am an undergraduate student at the University of Washington studying Electrical Engineering with a focus on embedded systems.
 
