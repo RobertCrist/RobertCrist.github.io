@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-![ROBERT_CRIST_HEADSHOT](/assets/ROBERT_CRIST_HEADSHOT.gif)
+![ROBERT_CRIST_HEADSHOT](https://user-images.githubusercontent.com/92423156/176802634-ab1e6437-b45b-404c-b5d1-0825bca80199.jpg)
 
 I am an undergraduate student at the University of Washington studying Electrical Engineering with a focus on embedded systems.
 
