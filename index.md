@@ -3,8 +3,7 @@ layout: page
 title: ""
 ---
 
-<img src="https://user-images.githubusercontent.com/92423156/176803230-3203a0e4-d7b2-4ced-84e9-41de2e4bc0fe.jpg" width=50% height=50%>
-
+![image](https://user-images.githubusercontent.com/92423156/176967407-0d2ee6e3-c3a0-42b6-897e-bee7a7f55242.png){: .center-image }
 
 I am an undergraduate student at the University of Washington studying Electrical Engineering with a focus on embedded systems.
 
