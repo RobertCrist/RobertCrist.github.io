@@ -1,1 +1,3 @@
 For my second capstone, my team created a smart dog collar which monitors the temperature of a dog, and alerts the owner via a mobile application if their dog is in danger. For this project, we developed the device on the arduino platform and the mobile application for arduino devices. Additionally, we created a custom flex pcb to house all the devices. For more information, please view our website [here](https://embeddedcapstone22.wordpress.com/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pB8GoDQ6NFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
